@@ -49,6 +49,12 @@
                 <td><input type="submit" value="borrar" onclick = "location='borrar.jsp'"/> </td>      
                 </tr> 
         </table>
+         <table>
+            <tr>
+                <td></td>        
+                <td><input type="submit" value="Consultar" onclick = "location='consultarTodo.jsp'"/> </td>      
+            </tr> 
+        </table>
     
     </body>
 </html>

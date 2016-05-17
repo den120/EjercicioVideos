@@ -34,10 +34,12 @@
         %>
     <%-- 
    siguiente codigo tiene errores
-        --%>    
-    <c:forEach var="camion" items="${sessionScope.camiones}">
+        <c:forEach var="camion" items="${sessionScope.camiones}">
         <p>${camion.camion_codigo}</p>
     </c:forEach>
+    
+        --%>    
+
         
         
     </body>
