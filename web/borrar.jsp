@@ -13,7 +13,7 @@
     </head>
     <body>
        <form action = "borrar.do" method = "">
-           <h1>Codigo a borrar</h1>
+           <h1>Codigo a eliminar</h1>
             <table>
                 <tr>
                     <td>Codigo:</td>        
